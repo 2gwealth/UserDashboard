@@ -1,7 +1,7 @@
 import React from "react";
-import Sidebar from "../components/sidebar";
-import Header from "../components/Header";
-import StrategySection from "../components/StrategySection";
+import Sidebar from "./sidebar";
+import Header from "./Header";
+import StrategySection from "./StrategySection";
 
 export default function Dashboard() {
   return (
